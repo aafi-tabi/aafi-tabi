@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @aafi-tabi
+- 👀 I’m interested in Art and AI
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on artXcode projects
+- 📫 How to reach me aafitabi07@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I sketch fashion from my mind, code with a pink playlist on loop, and dream in Ghibli scenes. If my Git commits had a soundtrack, it’d be lo-fi meets runway beats. 🎨💻🎧
