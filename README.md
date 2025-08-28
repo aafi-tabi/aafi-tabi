@@ -8,25 +8,22 @@
 ---
 
 ### 👾 About Me
-- 🎓 Software Engineering student @ University of Gujrat (incoming)
-- 🧠 Currently learning **AI Engineering** — aiming for Google-level excellence  
-- 🎨 Artist | 🎮 Game dev learner | 🌌 Dreamer at heart   
+- 🎓 Software Engineering student @ University of Gujrat 
+- 🎨 Artist  
 - ✨ Fusing code, fashion, and digital aesthetics into soft storytelling
 
 ---
 
 ### 💻 Tech Stack
-- **Languages:** Python, C++, HTML/CSS  
-- **Tools:** Git & GitHub, VS Code, Pygame, SFML  
+- **Languages:** Python, C++, 
+- **Tools:** Git & GitHub, VS Code,  
 - **Creative:** Canva, IbisPaint, traditional sketching & watercolor  
-- **Learning:** AI Engineering, Game Dev, Web Dev
 
 ---
 
 ### 🌈 Current Projects
 - 🤖 `AI Journey` — mastering fundamentals through projects, visualizations & self-study  
 -- 🌐 `Dreamy Portfolio` — Carrd site with baby pink themes + "Now Playing" & "Digital Dream Vault"  
-- 🖌️ `Fashion x Art Reels` — faceless, cinematic Reels with fashion-inspired pencil sketching
 
 ---
 
@@ -41,7 +38,6 @@
 
 ### 🤝 Let’s Connect
 - 💌 `aafitabi07@gmail.com`  
-- Always open to AI collabs, creative swaps, and tech x art storytelling 🌸
 
 ---
 
