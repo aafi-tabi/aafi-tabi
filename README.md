@@ -23,7 +23,7 @@
 
 ### 🌈 Current Projects
 - 🤖 `AI Journey` — mastering fundamentals through projects, visualizations & self-study  
--- 🌐 `Dreamy Portfolio` — Carrd site with baby pink themes + "Now Playing" & "Digital Dream Vault"  
+- 🌐 `Dreamy Portfolio` — Carrd site with baby pink themes + "Now Playing" & "Digital Dream Vault"  
 
 ---
 
@@ -42,7 +42,7 @@
 ---
 
 <p align="center"><i>✨ Glitches, dreams, neural nets, and a bit of magic in every line of code ✨</i></p>
-)
+
 
 ---
 
