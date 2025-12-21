@@ -1,48 +1,55 @@
-<h1 align="center">Hi, I'm Aafi ✨</h1>
-<p align="center"><i>𝘾𝙤𝙙𝙞𝙣𝙜 𝙬𝙞𝙩𝙝 𝙖𝙧𝙩, 𝙙𝙧𝙚𝙖𝙢𝙨, 𝙖𝙣𝙙 𝙖 𝙩𝙤𝙪𝙘𝙝 𝙤𝙛 𝙜𝙡𝙞𝙩𝙘𝙝.</i></p>
+<h1 align="center">Hi, I’m Aafi ✨</h1>
+<p align="center">
+  <i>Building logic-first systems with a creative edge.</i>
+</p>
 
 <p align="center">
-  <img 
+  <!-- Optional banner space -->
 </p>
 
 ---
 
 ### 👾 About Me
-- 🎓 Software Engineering student @ University of Gujrat 
-- 🎨 Artist  
-- ✨ Fusing code, fashion, and digital aesthetics into soft storytelling
+- 🎓 Software Engineering student @ University of Gujrat  
+- 🎨 Artist with a structured, design-driven mindset  
+- ✨ Focused on writing clean logic, scalable code, and expressive visuals  
+
+Currently sharpening my problem-solving foundations while growing in data-driven and ML-adjacent tools.
 
 ---
 
 ### 💻 Tech Stack
-- **Languages:** Python, C++, 
-- **Tools:** Git & GitHub, VS Code,  
+- **Languages:** Python, C++  
+- **Core Concepts:** OOP, problem solving, logic building  
+- **Data & ML:** NumPy, Pandas, Matplotlib, Scikit-learn  
+- **Tools:** Git, GitHub, VS Code  
 - **Creative:** Canva, IbisPaint, traditional sketching & watercolor  
 
 ---
 
-### 🌈 Current Projects
-- 🤖 `AI Journey` — mastering fundamentals through projects, visualizations & self-study  
-- 🌐 `Dreamy Portfolio` — Carrd site with baby pink themes + "Now Playing" & "Digital Dream Vault"  
+### 🌱 Current Focus
+- 🧠 **C++ Problem Solving** — strengthening logic, patterns, and algorithmic thinking  
+- 📊 **Python for Data & ML** — applying NumPy, Pandas, and visualizations in real mini-projects  
+- 🌐 **Dreamy Portfolio** — a Carrd-based site blending soft visuals with technical storytelling  
 
 ---
 
 ### 🎥 Latest Vibes
-> “This isn’t aesthetic — this is obsession.”  
-> “If my art was a fashion brand…”  
-> “Code like a girl. Paint like a dream. Debug like a queen.”
+> “Clarity over noise.”  
+> “Logic is the aesthetic.”  
+> “Build skills. Then build impact.”
 
-📺 [YouTube: https://www.youtube.com/@aafitabi007]
+📺 **YouTube:** https://www.youtube.com/@aafitabi007  
 
 ---
 
 ### 🤝 Let’s Connect
-- 💌 `aafitabi07@gmail.com`  
+- 💌 **Email:** aafitabi07@gmail.com  
 
 ---
 
-<p align="center"><i>✨ Glitches, dreams, neural nets, and a bit of magic in every line of code ✨</i></p>
+<p align="center">
+  <i>✨ Structured thinking, soft visuals, long-term vision ✨</i>
+</p>
 
-
----
 
