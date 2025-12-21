@@ -44,7 +44,7 @@ Currently sharpening my problem-solving foundations while growing in data-driven
 ---
 
 ### 🤝 Let’s Connect
-- 💌 **Email:** aafitabi07@gmail.com  
+- 💌 **Email:** aafitabi00@gmail.com  
 
 ---
 
