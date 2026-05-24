@@ -105,7 +105,7 @@ print(me)
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aafi-tabi&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FFFFFF&hide_border=true" width="100%"/>
+<img src="https://ghchart.rshah.org/A78BFA/aafi-tabi" width="100%"/>
 
 </div>
 
