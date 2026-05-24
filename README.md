@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,1a1a1a,404040,808080&height=180&section=header&text=Aafia%20Aftab&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Building%20logic-first%20systems%20with%20a%20creative%20edge&descAlignY=55&descSize=16&descColor=cccccc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aafia%20Aftab%20✨&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Building%20logic-first%20systems%20with%20a%20creative%20edge&descAlignY=55&descSize=16&descColor=cccccc" width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 # ✨ Hey Universe, I'm **Aafia Aftab** 🌙
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=CCCCCC&center=true&vCenter=true&width=620&lines=Where+Art+Meets+Algorithm+%F0%9F%8E%A8%F0%9F%A4%96;Turning+Logic+into+Poetry+%E2%9C%A8;Soft+Visuals.+Sharp+Code.;Engineer+by+Mind.+Artist+by+Soul.+%F0%9F%8C%99;The+Code+is+the+Canvas.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Where+Art+Meets+Algorithm+%F0%9F%8E%A8%F0%9F%A4%96;Turning+Logic+into+Poetry+%E2%9C%A8;Soft+Visuals.+Sharp+Code.;Engineer+by+Mind.+Artist+by+Soul.+%F0%9F%8C%99;The+Code+is+the+Canvas.)](https://git.io/typing-svg)
 
 </div>
 
@@ -33,24 +33,24 @@
 
 ### Languages & Tools
 
-![Python](https://img.shields.io/badge/Python-2b2b2b?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-1a1a1a?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-2b2b2b?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Data & ML
 
-![NumPy](https://img.shields.io/badge/NumPy-2b2b2b?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-1a1a1a?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-333333?style=for-the-badge&logo=python&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-2b2b2b?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Creative Tools
 
-![Canva](https://img.shields.io/badge/Canva-1a1a1a?style=for-the-badge&logo=canva&logoColor=white)
-![IbisPaint](https://img.shields.io/badge/IbisPaint-333333?style=for-the-badge&logo=artstation&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![IbisPaint](https://img.shields.io/badge/IbisPaint-FF6B6B?style=for-the-badge&logo=artstation&logoColor=white)
 
 </div>
 
@@ -91,21 +91,21 @@ print(me)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aafi-tabi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=888888&text_color=cccccc&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aafi-tabi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&count_private=true" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aafi-tabi&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=cccccc" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aafi-tabi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aafi-tabi&theme=github_dark&hide_border=true&background=0D1117&ring=888888&fire=cccccc&currStreakLabel=ffffff" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aafi-tabi&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="500"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aafi-tabi&bg_color=0D1117&color=888888&line=cccccc&point=ffffff&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aafi-tabi&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FFFFFF&hide_border=true" width="100%"/>
 
 </div>
 
@@ -115,7 +115,7 @@ print(me)
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aafi-tabi&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aafi-tabi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 
 </div>
 
@@ -125,10 +125,10 @@ print(me)
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-1a1a1a?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aafitabi007)
-[![Gmail](https://img.shields.io/badge/Gmail-2b2b2b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aafitabi00@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=vercel&logoColor=white)](https://aafi-tabi.github.io/aafitabi/)
-[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aafi-tabi)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aafitabi007)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aafitabi00@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://aafi-tabi.github.io/aafitabi/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aafi-tabi)
 
 </div>
 
@@ -136,10 +136,10 @@ print(me)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,808080,404040,1a1a1a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 **✨ Structured thinking, soft visuals, long-term vision ✨**
 
-![Profile Views](https://komarev.com/ghpvc/?username=aafi-tabi&color=888888&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=aafi-tabi&color=A78BFA&style=flat-square&label=Profile+Views)
 
 </div>
