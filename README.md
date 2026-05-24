@@ -103,12 +103,6 @@ print(me)
 
 </div>
 
-<div align="center">
-
-<img src="https://ghchart.rshah.org/A78BFA/aafi-tabi" width="100%"/>
-
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
