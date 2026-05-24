@@ -7,7 +7,7 @@
 
 <div align="center">
 
-# Namaste 🙏 I'm **Aafia Aftab**
+# ✨ Hey Universe, I'm **Aafia Aftab** 🌙
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%F0%9F%8E%93;Artist+meets+Coder+%F0%9F%8E%A8;Python+%7C+C%2B%2B+%7C+Data+%26+ML+%F0%9F%A4%96;Logic+is+the+aesthetic+%E2%9C%A8;Building+Skills.+Then+Building+Impact.)](https://git.io/typing-svg)
 
