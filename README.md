@@ -122,17 +122,6 @@ print(me)
 
 ---
 
-## 💬 Latest Vibes
-
-<div align="center">
-
-> *"Clarity over noise."*
-
-> *"Logic is the aesthetic."*
-
-> *"Build skills. Then build impact."*
-
-</div>
 
 ---
 
