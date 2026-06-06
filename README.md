@@ -22,8 +22,7 @@
 - 🤖 Currently sharpening **problem-solving foundations** while growing in data-driven and ML-adjacent tools
 - 💡 Ask me about **Python, C++, OOP, Data & ML, or anything creative**
 - 🌐 Portfolio: [aafi-tabi.github.io/aafitabi](https://aafi-tabi.github.io/aafitabi/)
-- 📬 Reach me at: **aafitabi00@gmail.com**
-- 📺 YouTube: [@aafitabi007](https://www.youtube.com/@aafitabi007)
+- 📬 Reach me at: **aafitabi07@gmail.com**
 
 ---
 
@@ -119,8 +118,7 @@ print(me)
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aafitabi007)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aafitabi00@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aafitabi07@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://aafi-tabi.github.io/aafitabi/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aafi-tabi)
 
