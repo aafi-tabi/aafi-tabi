@@ -44,9 +44,9 @@ core_concepts = ["OOP", "Data Structures", "Logic Building", "Clean Code"]
 
 <div align="center">
 
-![Aafia's contribution graph](https://raw.githubusercontent.com/aafi-tabi/aafi-tabi/output/github-contribution-grid-snake.svg)
+<img src="https://ghchart.rzero.io/aafi-tabi" alt="Aafia's contribution graph" />
 
-</div>
+</div>>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aafi-tabi&show_icons=false&hide_border=true&bg_color=ffffff&theme=default" width="0" height="0"/>
