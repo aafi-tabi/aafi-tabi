@@ -42,9 +42,7 @@ core_concepts = ["OOP", "Data Structures", "Logic Building", "Clean Code"]
 
 ## Contribution Activity
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/aafi-tabi" alt="Aafia's contribution graph" />
-</div>
+📊 [View my live contribution graph on GitHub →](https://github.com/aafi-tabi)
 
 ---
 
