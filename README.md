@@ -43,7 +43,9 @@ core_concepts = ["OOP", "Data Structures", "Logic Building", "Clean Code"]
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aafi-tabi&theme=default&hide_border=true&background=ffffff&ring=57606a&fire=57606a&currStreakLabel=24292f&sideLabels=57606a&dates=57606a&currStreakNum=24292f&sideNums=24292f" width="460"/>
+
+![Aafia's GitHub contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=aafi-tabi&theme=minimal&hide_border=true&bg_color=ffffff&color=24292f&line=24292f&point=24292f)
+
 </div>
 
 <div align="center">
