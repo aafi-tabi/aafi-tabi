@@ -2,9 +2,9 @@
 <p align="center">Software Engineering Student · University of Gujrat</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> •
-  <a href="mailto:YOUR-EMAIL">Email</a> •
-  <a href="https://github.com/aafi-tabi/Python-basics-projects">Projects</a>
+  <a href="https://www.linkedin.com/in/aafiaaftab/">LinkedIn</a> •
+  <a href="mailto:aafitabi07@gmail.com">Email</a> •
+  <a href="https://github.com/aafi-tabi">Projects</a>
 </p>
 
 ---
